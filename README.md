@@ -1,4 +1,4 @@
-# 🌐 Global Importers: Enterprise Sales & Profitability Intelligence Dashboard
+# 🌐 Amazon & Customer Analytics Intelligence Dashboard
 
 <div align="center">
 
@@ -12,35 +12,35 @@
 ---
 
 ## 📌 Executive Summary
-An end-to-end Business Intelligence solution engineered for **Global Importers** to bridge the gap between raw, fragmented transactional data and executive-level decision-making. This dashboard transforms multi-year sales, cost, and return metrics into actionable insights, driving revenue optimization and regional performance tracking.
+An end-to-end Business Intelligence solution engineered to analyze customer behavior, retention, and churn metrics for Amazon-based operations. This dashboard transforms raw customer data into actionable insights, driving engagement strategies and loyalty optimization.
 
 ---
 
 ## 🛑 The Business Challenge
 Global leadership faced critical operational bottlenecks:
-* **Fragmented Reporting:** Inability to track real-time profitability margins (`49.92%`) across various product lines and geographical states simultaneously.
-* **Visibility Gaps:** Difficulty in monitoring long-term sales trajectories (2019–2024) and spotting seasonal downturns quickly.
-* **Resource Misallocation:** Lack of granular visibility into high-yield regions (e.g., California, Texas, Washington) and top-performing product categories (Road/Mountain Bikes).
+* **Customer Retention Tracking:** Difficulty in monitoring repeat customer rates (`77.13%`) versus one-time buyers (`22.87%`) over time.
+* **Churn Visibility:** Inability to track customer churn patterns (`2K Churn`) across various product categories and geographic segments efficiently.
+* **Segmentation Gaps:** Lack of granular insights into new customer acquisition trends versus returning buyers on a monthly and yearly basis.
 
 ---
 
 ## 💡 The Data-Driven Solution
 Designed and deployed a fully interactive, enterprise-grade Power BI dashboard featuring:
-* **Single Source of Truth:** Centralized revenue, cost, and quantity metrics to eliminate data silos.
-* **Advanced Cross-Filtering:** Enabled dynamic slicing by Fiscal Year, Quarters, Months, and Sales Reps to drill down from macro trends to micro transactions.
-* **Profitability Optimization:** Provided clear visual demarcations for cost vs. return ratios, enabling stakeholders to protect profit margins.
+* **Customer Lifetime Tracking:** Centralized metrics to monitor active vs. inactive customer statuses and overall database growth.
+* **Advanced Cross-Filtering:** Enabled dynamic slicing by years, categories, customer segments, and order dates to drill down into purchasing behaviors.
+* **Retention Optimization:** Provided clear visual breakdowns of repeat purchase rates to help stakeholders design targeted loyalty programs.
 
 ---
 
 ## 🛠️ Key Performance Indicators (KPIs) & Architecture
-The dashboard tracks core business metrics built via robust data modeling and advanced DAX measures:
+The dashboard tracks core customer and behavioral metrics built via robust data modeling and advanced DAX measures:
 
 | Metric | Value | Business Impact |
 | :--- | :---: | :--- |
-| **Total Sales** | **$20M** | Measures top-line revenue expansion over the active fiscal timeline. |
-| **Total Quantity** | **1M** | Tracks inventory movement and high-demand product volume. |
-| **Total Cost** | **$9.96M** | Monitors operational expenditures and COGS against revenue. |
-| **Profitability %** | **49.92%** | Evaluates overall financial health and margin sustainability. |
+| **New Customers** | **2K** | Measures recent customer acquisition expansion over the active timeline[cite: 8]. |
+| **Repeat Rate** | **77.13%** | Evaluates customer loyalty and brand retention effectiveness[cite: 8]. |
+| **One-Time %** | **22.87%** | Tracks the proportion of single-purchase buyers needing conversion[cite: 8]. |
+| **Customer Churn** | **2K** | Monitors inactive user volume and highlights retention risks[cite: 8]. |
 
 ---
 
@@ -51,9 +51,9 @@ The dashboard tracks core business metrics built via robust data modeling and ad
 ---
 
 ## 🚀 Technical Highlights & Skills Demonstrated
-- **Data Modeling & Architecture:** Built a clean relational model ensuring optimal filter propagation and high query performance.
-- **Advanced DAX Formulas:** Developed custom measures for year-over-year growth, profit margins, and dynamic aggregations.
-- **UI/UX Design for Executives:** Applied modern corporate design principles (clean alignment, intentional color grading, zero visual clutter) tailored for C-level presentations.
+- **Data Modeling & Architecture:** Built a clean relational model ensuring optimal filter propagation and high query performance for customer transactions.
+- **Advanced DAX Formulas:** Developed custom measures for churn calculation, repeat rates, and dynamic cohort analysis.
+- **UI/UX Design for Executives:** Applied modern corporate design principles (clean alignment, intentional color grading, zero visual clutter) tailored for stakeholder presentations.
 
 ---
 
