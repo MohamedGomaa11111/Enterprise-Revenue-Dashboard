@@ -45,5 +45,19 @@ The dashboard tracks core business metrics built via robust data modeling and ad
 ---
 
 ## 📸 Dashboard Preview
-```markdown
+
 ![Dashboard Preview](dashboard_preview.jpg.jpeg)
+
+---
+
+## 🚀 Technical Highlights & Skills Demonstrated
+- **Data Modeling & Architecture:** Built a clean relational model ensuring optimal filter propagation and high query performance.
+- **Advanced DAX Formulas:** Developed custom measures for year-over-year growth, profit margins, and dynamic aggregations.
+- **UI/UX Design for Executives:** Applied modern corporate design principles (clean alignment, intentional color grading, zero visual clutter) tailored for C-level presentations.
+
+---
+
+## 📁 Repository Structure
+```text
+├── dashboard_preview.jpg.jpeg            # Visual preview of the dashboard interface
+└── Enterprise-Revenue-Dashboard.pbix     # Source Power BI file containing data models & DAX
