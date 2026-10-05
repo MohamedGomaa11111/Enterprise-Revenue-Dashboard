@@ -46,4 +46,4 @@ The dashboard tracks core business metrics built via robust data modeling and ad
 
 ## 📸 Dashboard Preview
 ```markdown
-![Dashboard Preview](dashboard_preview.jpg)
+![Dashboard Preview](dashboard_preview.jpg.jpeg)
